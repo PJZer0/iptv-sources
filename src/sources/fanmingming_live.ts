@@ -21,7 +21,7 @@ export const fanmingming_live_sources: TSources = [
     {
         name: "fanmingming/live ipv6",
         f_name: "fmml_ipv6",
-        url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+        url: "https://raw.kkgithub.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
         filter: fanmingming_live_filter,
     },
     {
